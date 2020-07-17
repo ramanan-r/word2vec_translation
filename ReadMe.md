@@ -2,6 +2,6 @@
 
 Based on https://github.com/mostafachatillon/word2vec
 
-- fastText pre-trained word vectors available [here](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
-- [English](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.en.vec)
-- [Tamil](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.ta.vec)
+- fastText pre-trained word vectors available [here](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md)
+- [English](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.vec.gz)
+- [Tamil](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ta.300.vec.gz)
